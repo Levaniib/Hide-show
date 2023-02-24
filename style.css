@@ -1,0 +1,33 @@
+body{
+    height: 100vh;
+    background-color: rgb(90, 19, 156);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+}
+
+.icon{
+    height: 40px;
+    width: 40px;
+}
+
+.srchicon{
+    width: 40px;
+    height: 40px;
+    background-color: rgb(255, 255, 255);
+
+}
+
+.search{
+    height: 40px;
+    width: 0px;
+    border: none;
+    transition: 1s;
+}
+
+.tog{
+    width: 200px;
+    height: 40px;
+    transition: 1s;
+}
